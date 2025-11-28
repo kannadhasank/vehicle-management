@@ -67,6 +67,7 @@ function Dashboard() {
       color: 'warning',
       onClick: () => navigate('/projects')
     },
+    
     { 
       label: 'Vehicles Tracked', 
       value: trackedVehicles, 
